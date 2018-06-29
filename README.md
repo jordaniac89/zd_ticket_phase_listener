@@ -1,14 +1,5 @@
-# App name
+# ticket_phase_listener
 
-[brief description of the app]
+Listens for changes to ZD Ticket Phase
 
-### The following information is displayed:
 
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
